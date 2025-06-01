@@ -61,6 +61,104 @@ I am currently learning and developing projects related to **Artificial Intellig
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+---
+
+## 📌 Projects
+
+### 📌 **Route Optimization with Python and Machine Learning using Clusters**
+- **Description:**  
+  I used Python together with Scikit Learn to optimize delivery routes, leveraging machine learning algorithms for clustering (k-means) to create automatic delivery zones based on priority and proximity, using Google Maps APIs and Distance Matrix calculation.
+- **Technologies Used:**  
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+- **Key Features:**  
+  - ✨ Dynamic weekly optimization
+  - ✨ Route visualization on the map
+- **Repository:**  
+  *Not available at the moment.*
+- **Status:**  
+  Completed ✅  
+
+![RouteOpt](https://nuvizz.com/wp-content/uploads/2023/04/Benefits-of-Route-Optimization.jpg)
+
+---
+
+### 📌 **Terminal Emulator with Bash Scripting on Linux**
+- **Description:**  
+  Linux terminal emulator built with bash scripting, utilizing modularity and generating custom functions and commands.
+- **Technologies Used:**  
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+- **Key Features:**  
+  - 🌟 Added custom commands
+  - 🌟 Login with existing system users  
+- **Repository:**  
+  [GitHub Link](https://github.com/AmiyaMihari/Proyecto_final_linux_protecsa)  
+- **Status:**  
+  Completed ✅  
+
+![Terminal](https://media.geeksforgeeks.org/wp-content/uploads/cli_example.png)
+
+Note: Reference image only
+
+---
+
+### 📌 **Line Follower Robot**
+- **Description:**  
+  Line follower robot for a Robotics competition at the Faculty of Sciences, as part of the Robotics and Control course. This robot includes a Bluetooth module to allow switching to manual control mode.
+- **Technologies Used:**
+
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- **Key Features:**  
+  - ✅ Bluetooth control  
+  - ✅ Remote control mode
+  - ✅ Automatic calibration of ground and line color
+
+- **Repository:**  
+  *Not available at the moment.*
+- **Status:**  
+  Completed ✅  
+
+![RobotSeguidor](https://blog.uelectronics.com/wp-content/uploads/2020/10/Carrito-800x450-1.jpg)
+
+Note: Reference image only
+
+---
+
+### 📌 **AI Vtuber**
+- **Description:**  
+  Chatbot built with Python and LLMs for a Vtuber (virtual streamer) capable of speaking live (Speech to Text) with the YouTube chat and having conversations with others (Text to Speech).
+- **Technologies Used:**
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+  - VtubeStudio
+  - YouTube/Twitch
+  - OBS
+
+- **Key Features:**  
+  - 🚀 Planned to be released as Open Source
+  - 🚀 Can run locally and in the cloud
+  - 🚀 Resource usage optimized as much as possible
+  - 🚀 Integration with a Vtuber model using Vtube Studio
+
+- **Repository:**  
+  *Not available at the moment.*
+- **Status:**  
+  In development 🚧
+
+![IAVtuber](https://camo.githubusercontent.com/5846af0565ec4e3e8899005259d5968156a084c0824517eae5b2560b55c64316/68747470733a2f2f692e696d6775722e636f6d2f6c7274365758332e706e67)
+
+Note: Image for [reference](https://github.com/HRNPH/AIwaifu?tab=readme-ov-file) only.
+
+---
+
 ### Languages 🌍
 - **Spanish:** Native
 - **English:** Advanced
@@ -89,6 +187,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 - Puzzles (Rubik's cube) 🧩
 - Anime 🌸
 - Vtubers 🧡
+
 ![anime2](https://pbs.twimg.com/media/Go7hHlxXAAA5k9K?format=jpg&name=900x900)
 
 ~~Vtuber appreciation [Ferumy](https://x.com/FerumiKaipa)~~
