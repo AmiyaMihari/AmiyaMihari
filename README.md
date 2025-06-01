@@ -2,7 +2,7 @@
 # Personal Information ✨
 ---
 ## About Me ✨(≧∇≦)/✨
-Hello! Nice to meet you, I'm an Informatics student, vtuber enthusiast, and passionate about programming.
+Hello! Nice to meet you, I'm @AmiyaMihari, an Informatics student, vtuber enthusiast, and passionate about programming.
 
 I am currently learning and developing projects related to **Artificial Intelligence**, virtual assistants, and content creation. **uwu**
 
@@ -10,11 +10,14 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ## Academic Background ✏️
 ### University 🎓
-- **Institution:** National Autonomous University of Mexico 🏫
+**Institution: National Autonomous University of Mexico** 🏫
 - **Campus:** Faculty of Accounting and Administration 📚
-- **Study Program:**
-  - Bachelor’s Degree in Informatics (2025 - 2028) 💻
-  - Bachelor’s Degree in Physics (50% completed degree) 🔭
+  - **Study Program:**
+    - Bachelor’s Degree in Informatics (2025 - 2028) 💻
+
+- **Campus:** Faculty of Science 📚
+  - **Study Program:**
+    - Bachelor’s Degree in Physics (50% completed degree) 🔭
 
 ### Academic & Leadership Experience 📖
 - **Professionals in Technology and Algorithmic Solutions**
@@ -51,6 +54,9 @@ I am currently learning and developing projects related to **Artificial Intellig
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools 🛠️
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,6 +66,8 @@ I am currently learning and developing projects related to **Artificial Intellig
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
