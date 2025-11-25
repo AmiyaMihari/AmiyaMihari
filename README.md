@@ -10,7 +10,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ## Academic Background ✏️
 ### University 🎓
-**Institution: National Autonomous University of Mexico** 🏫
+**National Autonomous University of Mexico** 🏫
 - **Campus:** Faculty of Accounting and Administration 📚
   - **Study Program:**
     - Bachelor’s Degree in Informatics (2025 - 2028) 💻
@@ -22,10 +22,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 ### Academic & Leadership Experience 📖
 - **Professionals in Technology and Algorithmic Solutions**
   - **Institution:** UNAM
-  - **Date:** Ongoing~
-- **GenAI with Python Externship**
-  - **Institution:** Cognizant
-  - **Date:** Ongoing~
+  - **Date:** January 2025 - June 2025
 - **Fundamentals of Graphic Design**
   - **Institution:** Calarts
   - **Date:** 2024
