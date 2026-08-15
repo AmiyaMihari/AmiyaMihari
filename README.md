@@ -215,7 +215,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ## Support Me ☕
 
-<img src="https://img4.gelbooru.com//samples/5c/02/sample_5c022b22e073c70d46f73da8d851609f.jpg" alt="Ko-fi support" width="420" />
+<img src="https://img4.gelbooru.com/images/5c/02/5c022b22e073c70d46f73da8d851609f.jpg" alt="Ko-fi support" width="420" />
 
 <br>
 <br>
