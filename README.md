@@ -118,30 +118,37 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ---
 
-### 📌 **Table to Google Calendar**
+### 📌 **LLM-Powered Table to Google Calendar**
 - **Description:**
-  Web application created to convert SUAyED work plans into Google Calendar events. It can process PDF, CSV, and Excel files, automatically detect activities and videoconferences, interpret dates and schedules, and let users review the extracted information before exporting it.
+  An AI-assisted web application that transforms SUAyED academic work plans into structured Google Calendar events. The project combines traditional document parsing with **Large Language Models (LLMs)** to understand semi-structured PDF documents that do not follow a fixed layout.
+
+  When an OpenAI API key is available, a **GPT model analyzes the PDF**, identifies and reconstructs activity and videoconference tables even when their formatting changes, extracts the relevant information, and **automatically summarizes long assignment descriptions** before they are converted into calendar events. A deterministic parser remains available as a privacy-friendly fallback, making the project a hybrid **LLM + rule-based document processing pipeline**.
+
 - **Technologies Used:**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Powered-412991?style=for-the-badge&logo=openai&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Calendar](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 - **Key Features:**
-  - 📄 Reads PDF, CSV, and Excel work plans
-  - 🧠 Optional GPT-powered extraction for complex PDF formats
-  - 🔎 Automatically detects activities, assignments, and videoconferences
-  - ✏️ Editable preview before exporting
-  - 🚀 Direct export to Google Calendar with duplicate prevention
-  - 📅 Also supports `.ics`, Google Calendar links, and CSV export
+  - 🧠 **LLM-powered document understanding** for complex and changing PDF layouts
+  - ✨ **GPT-generated summaries** of assignment descriptions
+  - 🔀 Hybrid architecture: LLM extraction with a deterministic parser fallback
+  - 📄 Reads PDF, CSV, and Excel academic work plans
+  - 🔎 Automatically identifies and groups activities, assignments, videoconferences, and advisory sessions
+  - 🗓️ Understands natural Spanish date formats and multi-day date ranges
+  - ✏️ Three-step workflow with an editable review stage before exporting
+  - 🚀 Direct Google Calendar API integration with dedicated calendars and duplicate prevention
+  - 📅 Alternative export through `.ics`, Google Calendar links, and CSV
+  - ➕ Supports processing multiple subjects consecutively without reconnecting to Google
 - **Repository:**
   [AmiyaMihari/Table_to_google_calendar](https://github.com/AmiyaMihari/Table_to_google_calendar)
 - **Status:**
   Active development 🚧
 
 <p align="center">
-  <img src="./Assets/project_calendar.png" alt="Table to Google Calendar preview" width="760" />
+  <img src="./Assets/project_calendar.png" alt="LLM-powered Table to Google Calendar preview" width="760" />
 </p>
 
 ---
