@@ -211,10 +211,24 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ---
 
-## Support Me ☕
-If you enjoy my projects and would like to support their development, you can buy me a coffee on Ko-fi. ♡
+<div align="center">
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amiyamihari)
+## Support Me ☕
+
+<img src="https://img4.gelbooru.com//samples/5c/02/sample_5c022b22e073c70d46f73da8d851609f.jpg" alt="Ko-fi support" width="420" />
+
+<br>
+<br>
+
+If you enjoy my projects and want to fund my questionable programming decisions, you can buy me a coffee. ☕✨
+
+<br>
+
+<a href="https://ko-fi.com/amiyamihari">
+  <img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee_☕-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
+
+</div>
 
 ---
 
