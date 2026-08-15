@@ -140,6 +140,10 @@ I am currently learning and developing projects related to **Artificial Intellig
 - **Status:**
   Active development 🚧
 
+<p align="center">
+  <img src="./Assets/project_calendar.png" alt="Table to Google Calendar preview" width="760" />
+</p>
+
 ---
 
 ### 📌 **C.H.R.I.S. — Cognitive Humanoid Reasoning Interactive System**
@@ -215,7 +219,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 
 ## Support Me ☕
 
-<img src="https://images.weserv.nl/?url=img4.gelbooru.com/images/5c/02/5c022b22e073c70d46f73da8d851609f.jpg&w=840&output=jpg" alt="Ko-fi support" width="420" />
+<img src="./Assets/5c022b22e073c70d46f73da8d851609f.jpg" alt="Ko-fi support" width="420" />
 
 <br>
 <br>
