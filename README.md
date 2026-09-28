@@ -13,11 +13,7 @@ I am currently learning and developing projects related to **Artificial Intellig
 **National Autonomous University of Mexico** 🏫
 - **Campus:** Faculty of Accounting and Administration 📚
   - **Study Program:**
-    - Bachelor’s Degree in Informatics (2025 - 2028) 💻
-
-- **Campus:** Faculty of Science 📚
-  - **Study Program:**
-    - Bachelor’s Degree in Physics (50% completed degree) 🔭
+    - Bachelor’s Degree in Informatics (2025 - 2027) 💻
 
 ### Academic & Leadership Experience 📖
 - **Professionals in Technology and Algorithmic Solutions**
